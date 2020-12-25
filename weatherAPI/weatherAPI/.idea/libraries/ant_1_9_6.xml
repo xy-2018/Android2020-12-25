@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="ant-1.9.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ant-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-pool2-2.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/aspectjweaver-1.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/cglib-3.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp2-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.8.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/asm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/ant-launcher-1.9.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/annotations-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/catalina.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/ecj-4.6.3.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/el-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/jasper-el.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/jasper.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/jaspic-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/jsp-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/servlet-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/IntelliJ IDEA 2020.2.3/apache-tomcat-8.5.61/lib/websocket-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

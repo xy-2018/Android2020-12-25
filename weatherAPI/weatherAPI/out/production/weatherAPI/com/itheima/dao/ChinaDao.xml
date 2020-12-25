@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.itheima.dao.ChinaDao">
+	<!--查询所有客户信息 -->
+	<select id="findChinaProvince" 
+		                               resultType="China">
+		select * from adm1 
+	</select>
+	<select id="findChinaCity"		parameterType="Integer" 
+		                               resultType="City">
+		select id,name from adm2 where Adm1_id = #{Adm1_id} 
+	</select>
+	<select id="findChinaCounty"		parameterType="Integer" 
+		                               resultType="County">
+		select id,name,weather_id from adm3 where Adm2_id = #{Adm2_id} 
+	</select>
+</mapper>
